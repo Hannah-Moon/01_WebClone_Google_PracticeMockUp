@@ -1,6 +1,6 @@
 # HTML/CSS Assignment
 
-![Screenshot](./Image/Google_Screenshot.png)
+![Screenshot](.Google_Screenshot.png)
 
 
 ## Licence
