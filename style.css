@@ -25,6 +25,11 @@ header {
     color: #393939;
 }
 
+/* Navbar */
+  .navbar ul {
+    font-size: 10px;
+  }
+
 .navbar {
     height: 100%;
     width: 100%;
@@ -95,7 +100,7 @@ header {
     line-height: 30px;
 }
 
-/*Search*/
+/*Google */
 .content-section {
     flex-grow: 1;
     display: flex;
@@ -113,7 +118,7 @@ header {
 }
 
 .logo-img {
-    width: 300px;
+    width: 350px;
     margin-bottom: 20px;
 }
 
@@ -149,6 +154,8 @@ header {
 .search-bar input:focus {
     outline: none;
 }
+
+
 
 .search-btns {
     margin-top: 20px;
@@ -238,10 +245,7 @@ footer {
 
 /*mobile and tablet mode */
 @media only screen and (max-width: 650px) {
-/* Navbar */
-.navbar ul {
-  font-size: 10px;
-}
+
 	
 .menu-icon,
     .user-icon span {
@@ -262,6 +266,8 @@ footer {
 .search-bar i {
   font-size: 14px;
 }
+
+
 
 /* Buttons */
 .search-btns button {
