@@ -1,6 +1,6 @@
 # HTML/CSS Assignment
 
-![Screenshot](.Google_Screenshot.png)
+![Google Spring Search Page](Google_Screenshot.png)
 
 
 ## Licence
