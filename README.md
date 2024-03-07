@@ -3,7 +3,7 @@
 
 
 ## Live Link
-
+This is the link to the live demo: https://hannah-moon.github.io/01_WebClone_Google_PracticeMockUp/
 
 
 ## Licence
